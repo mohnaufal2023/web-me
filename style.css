@@ -56,7 +56,7 @@ body {
 
 .navbar a:hover,
 .navbar a.active {
-  color: #00abf0;
+  color: #081b29;
 }
 
 .home {
@@ -203,10 +203,10 @@ body {
   width: 40px;
   height: 40px;
   background: transparent;
-  border: 2px solid #00abf0;
+  border: 2px solid #081b29;
   border-radius: 50%;
   font-size: 20px;
-  color: #00abf0;
+  color: #f5e2be;
   text-decoration: none;
   z-index: 1;
   overflow: hidden;
@@ -214,7 +214,7 @@ body {
 }
 
 .home-sci a:hover {
-  color: #081b29;
+  color: #e4ebf0;
 }
 
 .home-sci a::before {
@@ -224,7 +224,7 @@ body {
   left: 0;
   width: 0;
   height: 100%;
-  background: #00abf0;
+  background: #081b29;
   z-index: -1;
   transition: 0.5s;
 }
